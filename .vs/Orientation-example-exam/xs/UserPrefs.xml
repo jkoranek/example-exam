@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{5D4319D5-85C6-47B2-8C06-4E4DC82C861D}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Orientation-example-exam.IntegrationTests/IntegrationTests.cs">
+    <Files>
+      <File FileName="Orientation-example-exam/Program.cs" Line="2" Column="7" />
+      <File FileName="Orientation-example-exam/appsettings.json" Line="11" Column="79" />
+      <File FileName="Orientation-example-exam/Data/ApplicationContext.cs" Line="18" Column="8" />
+      <File FileName="Orientation-example-exam/Models/User.cs" Line="9" Column="27" />
+      <File FileName="Orientation-example-exam/ViewModels/IndexViewModel.cs" Line="8" Column="40" />
+      <File FileName="Orientation-example-exam/Services/IUserService.cs" Line="16" Column="38" />
+      <File FileName="Orientation-example-exam/Services/UserService.cs" Line="24" Column="4" />
+      <File FileName="Orientation-example-exam/Controllers/HomeController.cs" Line="55" Column="28" />
+      <File FileName="Orientation-example-exam/Views/Home/Index.cshtml" Line="22" Column="36" />
+      <File FileName="Orientation-example-exam/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Orientation-example-exam.IntegrationTests/IntegrationTests.cs" Line="28" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Orientation-example-exam" expanded="True">
+            <Node name="Orientation-example-exam" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Orientation-example-exam.IntegrationTests" expanded="True">
+              <Node name="IntegrationTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Orientation-example-exam" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Orientation-example-exam PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,25 @@
+﻿@using Orientation_example_exam.ViewModels
+@model IndexViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="~/Styles/style.css">
+    <title>Homepage</title>
+</head>
+<body>
+    <p>@ViewData["status"]</p>
+    <form action="save-link" method="post">
+        <label for="url">URL</label><br>
+        <input type="url" id="url" name="url" value="@Model.User.Url" required><br>
+
+        <label for="alias">Alias</label><br>
+        <input type="text" id="alias" name="alias" value="@Model.User.Alias" required><br>
+        
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
